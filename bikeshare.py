@@ -20,7 +20,7 @@ def get_filters():
     city_index = 0
     city_list = ['chicago', 'new york city', 'washington']
     while city_index == 0:
-            city = input("Enter a valid city name to analyze: ")
+            city = input("Enter a valid city name to analyze. You may choose from chicago, new york city and washington: ")
             city = city.lower()
             print(" you have selected the city, {}!".format(city))
             if city in city_list:
