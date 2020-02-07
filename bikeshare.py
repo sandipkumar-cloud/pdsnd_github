@@ -30,7 +30,7 @@ def get_filters():
     month_index = 0
     month_list = ['january', 'february', 'march', 'april', 'may', 'june']
     while month_index == 0:
-            month = input("Enter a valid month to analyze: ")
+            month = input("Enter a valid month to analyze or type all: ")
             month = month.lower()
             print(" you have selected month: {}".format(month))
             if month in month_list:
