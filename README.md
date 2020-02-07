@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+This prroject and README file was created on 2020-01-20.
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+This project lets a user to get descriptive statistics of bike rental from a city of choice. The city names are Chicago, New York City and Washington.
 
 ### Files used
-Include the files used
+new_york_city.csv
+chicago.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All the files were provided by udacity as a part of a course.
 

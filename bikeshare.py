@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-
+# The data here is a stripped down version of real data from a company
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
